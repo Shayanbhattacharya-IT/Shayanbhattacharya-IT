@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Shayan Bhattacharya
 
-### 🚀 Application Support Analyst | DevOps Engineer | Cloud Enthusiast | AI Agent Builder
+### 🚀 Application Support Analyst | DevOps Engineer | Cloud Enthusiast | AI | AI Agent Builder
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Application+Support+Engineer;DevOps+Engineer;AWS+Cloud+Enthusiast;Docker+%7C+Kubernetes+%7C+Terraform;AI+Agents+%7C+Automation+Builder;Always+Learning+Always+Building" />
 
@@ -12,7 +12,7 @@
 
 # 💫 About Me
 
-🔹 4+ Years of Experience in the IT Industry
+🔹 5+ Years of Experience in the IT Industry
 
 🔹 Application Support & DevOps Professional
 

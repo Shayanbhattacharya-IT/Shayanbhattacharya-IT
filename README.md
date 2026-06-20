@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Shayan Bhattacharya
 
-### 🚀 DevOps Engineer | AI Agent Builder | Cloud Automation Specialist
+### 🚀 Application Support Analyst | DevOps Engineer | AI Agent Builder | Cloud Automation Specialist
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=4%2B+Years+in+Information+Technology;Application+Support+%26+DevOps+Engineer;Building+AI+Agents+with+Claude+%26+Ollama;AWS+Cloud+%7C+Docker+%7C+Kubernetes;AI+Automation+with+n8n;DevSecOps+%7C+Monitoring+%7C+Observability" />
 
@@ -16,7 +16,7 @@
 
 # 🚀 About Me
 
-💼 IT Professional with **4+ years of experience** in Application Support, DevOps, Cloud Infrastructure, Monitoring, and Automation.
+💼 IT Professional with **5+ years of experience** in Application Support, DevOps, Cloud Infrastructure, Monitoring, and Automation.
 
 🤖 Currently building AI-powered solutions using Claude, Ollama, Gemini, AWS Bedrock, and n8n.
 

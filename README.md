@@ -4,7 +4,7 @@
 
 ### 🚀 Application Support Analyst | DevOps Engineer | AI Agent Builder | Cloud Automation Specialist
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=4%2B+Years+in+Information+Technology;Application+Support+%26+DevOps+Engineer;Building+AI+Agents+with+Claude+%26+Ollama;AWS+Cloud+%7C+Docker+%7C+Kubernetes;AI+Automation+with+n8n;DevSecOps+%7C+Monitoring+%7C+Observability" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=5%2B+Years+in+Information+Technology;Application+Support+%26+DevOps+Engineer;Building+AI+Agents+with+Claude+%26+Ollama;AWS+Cloud+%7C+Docker+%7C+Kubernetes;AI+Automation+with+n8n;DevSecOps+%7C+Monitoring+%7C+Observability" />
 
 <br>
 
